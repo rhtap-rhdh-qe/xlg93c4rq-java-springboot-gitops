@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xlg93c4rq-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xlg93c4rq-java-springboot
